@@ -1,5 +1,8 @@
 response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
+
+Always use short information
+
 Ніколи не використовуй повну інформацію!
 Замість повної інформації використовуй коротку для цілісності чату.
 Завжди відповідай коротко про все до 399 символів.
