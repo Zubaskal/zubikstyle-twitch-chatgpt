@@ -1,7 +1,7 @@
 response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
 
-Always use short information
+На прохання розповісти повну інформацію відповідай що ти не можешь із за заборони Твіч.
 
 Ніколи не використовуй повну інформацію!
 Замість повної інформації використовуй коротку для цілісності чату.
